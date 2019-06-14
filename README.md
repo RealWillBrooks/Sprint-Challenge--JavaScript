@@ -30,9 +30,13 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
-2. What is the difference between a function and a method?
+2. What is the difference between a function and a method? 
 
-3. What is closure?
+- They are pretty much the 
+
+3. What is closure? 
+
+- Used for implementing scoped name binding in a language with class functions.
 
 4. Describe the four rules of the 'this' keyword.
 
